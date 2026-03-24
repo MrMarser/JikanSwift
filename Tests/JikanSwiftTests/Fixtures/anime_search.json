@@ -1,0 +1,67 @@
+{
+  "pagination": {
+    "last_visible_page": 5,
+    "has_next_page": true,
+    "current_page": 1,
+    "items": {
+      "count": 25,
+      "total": 120,
+      "per_page": 25
+    }
+  },
+  "data": [
+    {
+      "mal_id": 20,
+      "url": "https://myanimelist.net/anime/20/Naruto",
+      "title": "Naruto",
+      "title_english": "Naruto",
+      "title_japanese": "ナルト",
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 220,
+      "status": "Finished Airing",
+      "score": 8.0,
+      "scored_by": 1200000,
+      "rank": 500,
+      "popularity": 10,
+      "members": 2500000,
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/13/17405t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/13/17405l.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/13/17405t.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/13/17405l.webp"
+        }
+      },
+      "synopsis": "Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi..."
+    },
+    {
+      "mal_id": 1735,
+      "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden",
+      "title": "Naruto: Shippuuden",
+      "title_english": "Naruto Shippuden",
+      "title_japanese": "ナルト 疾風伝",
+      "type": "TV",
+      "source": "Manga",
+      "episodes": 500,
+      "status": "Finished Airing",
+      "score": 8.27,
+      "scored_by": 1100000,
+      "rank": 250,
+      "popularity": 5,
+      "members": 3000000,
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/5/17407.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/5/17407t.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/5/17407l.jpg"
+        }
+      },
+      "synopsis": "It has been two and a half years since Naruto Uzumaki left Konohagakure..."
+    }
+  ]
+}

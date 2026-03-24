@@ -1,0 +1,62 @@
+{
+  "data": {
+    "mal_id": 1,
+    "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+    "title": "Cowboy Bebop",
+    "title_english": "Cowboy Bebop",
+    "title_japanese": "カウボーイビバップ",
+    "title_synonyms": ["CB"],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "1998-04-03T00:00:00+00:00",
+      "to": "1999-04-24T00:00:00+00:00",
+      "string": "Apr 3, 1998 to Apr 24, 1999"
+    },
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 8.75,
+    "scored_by": 900000,
+    "rank": 28,
+    "popularity": 43,
+    "members": 1800000,
+    "favorites": 75000,
+    "synopsis": "Crime is timeless. By the year 2071, humanity has colonized several planets and moons...",
+    "background": "When Cowboy Bebop first aired in spring 1998 on TV Tokyo...",
+    "season": "spring",
+    "year": 1998,
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/4/19644t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+      }
+    },
+    "trailer": {
+      "youtube_id": "qig4KOK2R2g",
+      "url": "https://www.youtube.com/watch?v=qig4KOK2R2g",
+      "embed_url": "https://www.youtube.com/embed/qig4KOK2R2g"
+    },
+    "genres": [
+      { "mal_id": 1, "type": "anime", "name": "Action", "url": "https://myanimelist.net/anime/genre/1/Action" },
+      { "mal_id": 46, "type": "anime", "name": "Award Winning", "url": "https://myanimelist.net/anime/genre/46/Award_Winning" }
+    ],
+    "themes": [
+      { "mal_id": 50, "type": "anime", "name": "Adult Cast", "url": "https://myanimelist.net/anime/genre/50/Adult_Cast" },
+      { "mal_id": 29, "type": "anime", "name": "Space", "url": "https://myanimelist.net/anime/genre/29/Space" }
+    ],
+    "demographics": [],
+    "studios": [
+      { "mal_id": 14, "type": "anime", "name": "Sunrise", "url": "https://myanimelist.net/anime/producer/14/Sunrise" }
+    ],
+    "producers": [
+      { "mal_id": 23, "type": "anime", "name": "Bandai Visual", "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual" }
+    ],
+    "licensors": [
+      { "mal_id": 102, "type": "anime", "name": "Funimation", "url": "https://myanimelist.net/anime/producer/102/Funimation" }
+    ]
+  }
+}
