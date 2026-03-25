@@ -434,7 +434,7 @@ JikanSwift/
 │       ├── anime_search.json
 │       └── anime_details.json
 └── Examples/
-    └── BasicUsage.md
+    
 ```
 
 ### Request Pipeline
