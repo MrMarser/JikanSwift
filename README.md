@@ -442,29 +442,29 @@ JikanSwift/
 Every API call flows through the same six-step pipeline inside `JikanClient.request()`:
 
 ```
-┌──────────────┐
+┌───────────────┐
 │  Cache Read   │ ← if policy allows and cache hit → return immediately
-└──────┬───────┘
+└──────┬────────┘
        ▼
-┌──────────────┐
+┌───────────────┐
 │ RequestBuilder│ ← Endpoint → URLRequest (URL + query + headers)
-└──────┬───────┘
+└──────┬────────┘
        ▼
-┌──────────────┐
+┌───────────────┐
 │  HTTPClient   │ ← URLSession.data(for:) or mock transport
-└──────┬───────┘
+└──────┬────────┘
        ▼
-┌──────────────┐
+┌───────────────┐
 │   Validate    │ ← Check HTTP status: 2xx OK, 429 rate-limited, else error
-└──────┬───────┘
+└──────┬────────┘
        ▼
-┌──────────────┐
+┌───────────────┐
 │   Decode      │ ← JSONDecoder → generic T: Decodable
-└──────┬───────┘
+└──────┬────────┘
        ▼
-┌──────────────┐
+┌───────────────┐
 │  Cache Write  │ ← Store raw Data for future hits
-└──────────────┘
+└───────────────┘
 ```
 
 ### Design Decisions
